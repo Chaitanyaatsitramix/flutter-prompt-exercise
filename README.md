@@ -1,6 +1,6 @@
 # Flutter Prompt Engineering Exercise
 
-An exercise demonstrating prompt engineering capabilities by creating a comprehensive Flutter multiplatform project.
+An exercise demonstrating prompt engineering capabilities by creating a comprehensive Flutter project.
 
 ## Original Prompt
 
